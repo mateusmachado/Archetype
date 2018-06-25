@@ -3,8 +3,8 @@
    Install nodeJS
 
 # Start application:
-   Navigate to the directory path: $PATH/ui
-   npm install less less-loader fish-ui --save
+  ###  Navigate to the directory path: $PATH/ui
+  ## npm install less less-loader fish-ui --save
    run again: npm install
    npm run dev
    open: http://localhost:8080
