@@ -11,13 +11,14 @@
    Open: http://localhost:8080
    ```
 ## Backend-End - Requirements to run   
-
-  $ Install Gradle
-  $ Postgres 
-  $   BaseName: fish
+   ```
+   Install Gradle, Postgres 
+   Postgres Basename: fish
+   ```
      
-# Start application:   
-   $ Navigate to the directory path: $PATH/api/
-   $ Run command line: gradle bootRun
-   $ The Tomcat connector configured to listen on port 8880
-
+# Start application:  
+   ```
+   Navigate to the directory path: $PATH/api/
+   Run command line: gradle bootRun
+   The Tomcat connector configured to listen on port 8880
+   ```
