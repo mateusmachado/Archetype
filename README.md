@@ -1,7 +1,7 @@
 ## Front-End - Requirements to run
-
+   ```
    Install nodeJS
-
+   ```
 # Start application:
    Navigate to the directory path: $PATH/ui
    ```
