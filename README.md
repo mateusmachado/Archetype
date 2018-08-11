@@ -5,9 +5,9 @@
 # Start application:
    Navigate to the directory path: $PATH/ui
    ```
-   Npm install less less-loader fish-ui --save
+   npm install less less-loader fish-ui --save
    Run again: npm install
-   Npm run dev
+   npm run dev
    Open: http://localhost:8080
    ```
 ## Backend-End - Requirements to run   
